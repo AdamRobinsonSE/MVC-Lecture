@@ -24,4 +24,4 @@ PORT = 8000
 
 DB_STRING = mongodb+srv://<name>:<password>@cluster0.srqu63o.mongodb.net/?retryWrites=true&w=majority
 ```
-
+4. npm start
