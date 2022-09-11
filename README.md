@@ -19,6 +19,8 @@ https://github.com/AdamRobinsonSE/todo-mvc
 1. npm init
 2. npm install
 3. You will need to add a .env file that contains PORT and DB_STING
+
+*example of env file*
 ```js
 PORT = 8000
 
