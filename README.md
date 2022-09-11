@@ -12,4 +12,12 @@ https://1drv.ms/v/s!As_03mGP06wViq4v-NE1M81p4yrPPg?e=FjWbgf
 
 If you want to work with the code in the video it can be found in this repository
 
+https://github.com/AdamRobinsonSE/todo-mvc
+
+# To get the app working
+
+1. npm init
+2. npm install
+3. You will need to add a .env file that contains PORT and DB_STING
+  -example PORT = 8500
 
